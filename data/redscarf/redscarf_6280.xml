@@ -1,0 +1,26 @@
+<annotation>
+  <folder>classroom_img</folder>
+  <filename>redscarf_6280.jpg</filename>
+  <path>./classroom_img</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>redscarf</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>172</xmin>
+      <ymin>696</ymin>
+      <xmax>302</xmax>
+      <ymax>1075</ymax>
+    </bndbox>
+  </object>
+</annotation>

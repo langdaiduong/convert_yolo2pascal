@@ -1,0 +1,38 @@
+<annotation>
+	<folder>gun</folder>
+	<filename>armas (5).jpg</filename>
+	<path>demo/gun\armas (5).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>866</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>171</ymin>
+			<xmax>672</xmax>
+			<ymax>620</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>612</xmin>
+			<ymin>4</ymin>
+			<xmax>846</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>

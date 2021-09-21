@@ -1,0 +1,31 @@
+item {
+  id: 1
+  name: 'person'
+}
+
+item {
+  id: 2
+  name: 'hand'
+}
+item {
+  id: 3
+  name: 'sleep'
+}
+
+item {
+  id: 4
+  name: 'sovin'
+}
+item {
+  id: 5
+  name: 'redscarf'
+}
+
+item {
+  id: 6
+  name: 'dirty'
+}
+item {
+  id: 7
+  name: 'gun'
+}
